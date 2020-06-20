@@ -1,9 +1,16 @@
-# projeto css
+#Projeto CSS
 
-**Objetivo**
+<Objetivo>
+Desenvolver habilidades para criar sites com HTML, CSS e JavaScript
 
-justificativa
+<justificativa>
+Projeto para a ddiciplina de web design do curso desenvolvimeto de sistemas
+do Senai.
 
-tecnologias
+<Tecnologias>
+-HTML
+-CSS
+-JavaScript
 
-autor
+<Autor>
+Gabriel Rodrigues Alves Almeida
