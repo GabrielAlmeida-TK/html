@@ -1,0 +1,52 @@
+*{
+    margin: 0mm;
+    padding: 0mm;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+body{
+    background-color: #3DA35D;
+}
+.barra{
+    background-color: #134611;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.botao{
+    color: #B1F8F2;
+    text-decoration: none;
+    margin: 10px;
+    text-transform: uppercase;
+}
+#linha{
+    align-items:center;
+    margin-top: 150px ;
+    display: flex;
+    justify-content: center;
+    height: 40vh;
+}
+.titulo{
+    color: #B1F8F2;
+    font-size: 20px;
+    text-align: center;
+}
+footer{
+    background-color: #134611;
+    padding: 20px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+#idioma{
+    margin-top: 150px;
+    flex-direction: column;
+    display:flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+select{
+    background-color: #B1F8F2;
+    border: none;
+}

@@ -1,0 +1,119 @@
+*{
+    margin: 0mm;
+    padding: 0mm;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+body{
+    background-color: #3DA35D;
+}
+.barra{
+    background-color: #134611;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.botao{
+    color: #B1F8F2;
+    text-decoration: none;
+    margin: 5px;
+    text-transform: uppercase;
+}
+.msg{
+    margin: 30px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    color: #B1F8F2;
+}
+.titulo{
+    display: flex;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
+#nome{
+    height: 20px;
+    display: flex;
+    justify-content: center;
+}
+#email{
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin: 30px auto;
+}
+input{
+    background-color: #B1F8F2;
+    border: none;
+    color: black;
+}
+.texto{
+    margin-bottom: 30px;
+    resize: none;
+    background-color: #B1F8F2;
+    color: black;
+}
+.enviar{
+    width: 50px;
+    margin: 0 auto;
+    border: none;
+}
+.titulo{
+    justify-content: center;
+    transition: 0.3s;
+    padding-bottom: 50px;
+}
+.social{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    color: #B1F8F2;
+}
+.fab{
+    padding: 10px;
+    font-size: 40px;
+    color: #B1F8F2;
+}
+.fas{
+    padding: 10px;
+    font-size: 40px;
+    color: #B1F8F2
+}
+.fab.fa-github-alt:hover{
+    color: black;
+}
+.fab.fa-youtube:hover{
+    color: #ff0000;
+}
+.fab.fa-linkedin-in:hover{
+    color: #1e81bf;
+}
+.fas.fa-envelope-square:hover{
+    color: black;
+}
+footer{
+    background-color: #134611;
+    padding: 20px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+#idioma{
+    
+    margin-top: 150px;
+    flex-direction: column;
+    display:flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+select{
+    background-color: #B1F8F2;
+    border: none;
+}
